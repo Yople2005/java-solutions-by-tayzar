@@ -1,6 +1,8 @@
+package chapter2;
+
 public class InvoiceTest {
     public static void main(String[] args) {
-        Invoice invoice = new Invoice("1234", "Hammer", 2, 9.99);
+        Invoice invoice = new Invoice("1234", "Keyboard", 2, 9.99);
 
         System.out.printf("Part Number: %s%n", invoice.getPartNumber());
         System.out.printf("Part Description: %s%n", invoice.getPartDescription());
