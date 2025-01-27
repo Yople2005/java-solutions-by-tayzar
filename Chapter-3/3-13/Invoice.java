@@ -1,4 +1,4 @@
-package chapter2;
+
 
 public class Invoice {
     private String partNumber;
