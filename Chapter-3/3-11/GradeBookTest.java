@@ -1,4 +1,4 @@
-package chapter2;
+package chapter3;
 
 public class GradeBookTest {
     public static void main(String[] args) {

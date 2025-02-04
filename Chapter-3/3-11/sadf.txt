@@ -1,0 +1,29 @@
+Step 1: Identify the Positive Two's Complement Binary Number
+Original Binary:
+00000001
+
+
+Step 2: Invert All the Bits
+Invert Each Bit:
+0 0 0 0 0 0 0 1
+=>
+1 1 1 1 1 1 1 0
+
+
+Step 3: Add 1 to the Inverted Number
+Inverted Binary:
+1 1 1 1 1 1 1 0
+Adding 1:
++ 0 0 0 0 0 0 0 1
+----------------
+1 1 1 1 1 1 1 1
+
+
+Step 4: Verify the Result
+Result:
+11111111 (8-bit two's complement negative representation)
+
+
+Final Result
+The negative value of 00000001 in two's complement form is:
+11111111 (which represents -1 in decimal form)
