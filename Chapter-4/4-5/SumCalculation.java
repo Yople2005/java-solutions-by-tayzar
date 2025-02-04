@@ -1,4 +1,4 @@
-package chapter3;
+package chapter4;
 
 public class SumCalculation {
     public static void main(String[] args) {
