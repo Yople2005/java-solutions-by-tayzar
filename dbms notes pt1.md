@@ -130,7 +130,7 @@ students ဇယားကို လုံးဝဖျက်ပစ်မည်။
 ---
 
 ## 9. ORDER BY
-ဒေတာများကို သတ်မှတ်ထားသော column အရ ascending (တိုးတက်) သို့မဟုတ် descending (လျော့ကျ) စီရန် အသုံးပြုပါသည်။
+ဒေတာများကို သတ်မှတ်ထားသော column အရ ascending (ငယ်စဉ်ကြီးလိုက်) သို့မဟုတ် descending (ကြီးစဉ်ငယ်လိုက်) စီရန် အသုံးပြုပါသည်။
 
 **Syntax:**
 ```sql
@@ -142,7 +142,7 @@ SELECT *
 FROM employees
 ORDER BY salary DESC;
 
-employees ဇယားထဲရှိ ဒေတာများကို salary column အရ လျော့ကျစီပြီး ပြသပေးမည်။
+employees ဇယားထဲရှိ ဒေတာများကို salary column အရ ကြီးစဉ်ငယ်လိုက်စီပြီး ပြသပေးမည်။
 ```
 ---
 
