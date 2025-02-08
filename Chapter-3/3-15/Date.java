@@ -1,4 +1,3 @@
-package chapter3;
 
 public class Date {
     private int month;

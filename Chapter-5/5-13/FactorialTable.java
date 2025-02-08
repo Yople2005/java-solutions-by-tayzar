@@ -1,4 +1,3 @@
-package chapter5;
 
 public class FactorialTable {
     public static void main(String[] args) {

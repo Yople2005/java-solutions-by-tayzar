@@ -1,5 +1,3 @@
-package chapter5;
-
 public class TrianglePatterns {
     public static void main(String[] args) {
         // Pattern (a)

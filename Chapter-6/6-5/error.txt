@@ -1,0 +1,16 @@
+(a) Error: Method h is declared within method g.
+Correction: Move the declaration of h outside the declaration of g.
+
+(b) Error: The method is supposed to return an integer, but does not.
+Correction: Delete the variable result, and place the statement
+return x + y;
+in the method, or add the following statement at the end of the method body:
+return result;
+
+(c) Error: The semicolon after the right parenthesis of the parameter list is incorrect, and
+the parameter a should not be redeclared in the method.
+Correction: Delete the semicolon after the right parenthesis of the parameter list, and
+delete the declaration float a;.
+
+(d) Error: The method returns a value when it’s not supposed to.
+Correction: Change the return type from void to int.

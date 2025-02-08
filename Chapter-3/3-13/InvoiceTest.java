@@ -1,4 +1,3 @@
-package chapter3;
 
 public class InvoiceTest {
     public static void main(String[] args) {
