@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultiplesTest {
+public class IsMultipleTest {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -9,6 +9,7 @@ public class MultiplesTest {
             int first = input.nextInt();
             if (first == 0) break;
 
+            
             System.out.print("Enter second integer: ");
             int second = input.nextInt();
 

@@ -7,7 +7,7 @@ public class AccountTest {
         Account account2 = new Account(-7.53);
 
         System.out.printf("account1 balance: $%.2f\n", account1.getBalance());
-        System.out.printf("account2 balance: $%.2f\n\n", account2.getBalance());
+        System.out.printf("account2 balance: $%.2f\n\nu", account2.getBalance());
 
         Scanner input = new Scanner(System.in);
 

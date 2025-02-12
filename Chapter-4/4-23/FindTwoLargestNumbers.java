@@ -1,27 +1,11 @@
 package chapter4;
 
-import java.util.Scanner;
-
-public class FindTwoLargestNumbers {
+public class TabularOutput {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int largest = Integer.MIN_VALUE;
-        int secondLargest = Integer.MIN_VALUE;
+        System.out.println("N\t10*N\t100*N\t1000*N");
 
-        for (int i = 1; i <= 10; i++) {
-            System.out.print("Enter integer " + i + ": ");
-            int number = scanner.nextInt();
-
-            if (number > largest) {
-                secondLargest = largest;
-                largest = number;
-            } else if (number > secondLargest) {
-                secondLargest = number;
-            }
+        for (int i = 1; i <= 5; i++) {
+            System.out.println(i + "\t" + (10 * i) + "\t" + (100 * i) + "\t" + (1000 * i));
         }
-
-        System.out.println("The largest number is: " + largest);
-        System.out.println("The second largest number is: " + secondLargest);
-        scanner.close();
     }
 }

@@ -2,8 +2,7 @@ package chapter4;
 
 public class SumCalculation {
     public static void main(String[] args) {
-        int sum;
-        int x;
+        int sum,x;
 
         x = 1;
         sum = 0;
