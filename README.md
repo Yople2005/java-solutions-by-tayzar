@@ -1,7 +1,5 @@
 # Java Questions
 
-## Overview
-
 - **Chapters 2-7**: 10 marks each
 - **Chapters 8-9**: 20 marks each
 
@@ -29,7 +27,7 @@ Total marks: 100
 - **Number of Questions**: 4
 - **Topics**: [List of topics covered in chapter 9]
 
-## Marking Scheme
+##  Overview
 
 | Chapter     | Number of Questions | Marks per Question | Total Marks |
 |-------------|----------------------|--------------------|-------------|
