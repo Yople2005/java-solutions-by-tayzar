@@ -27,16 +27,18 @@ Total marks: 100
 - **Number of Questions**: 4
 - **Topics**: [List of topics covered in chapter 9]
 
-##  Overview
+## Overview
 
 | Chapter     | Number of Questions | Marks per Question | Total Marks |
 |-------------|----------------------|--------------------|-------------|
-| Chapter 2-5 | Unseen               | 10                 | 40           |
-| Chapter 6   | 8                    | 10                 | 10          |
-| Chapter 7   | 8                    | 10                 | 10          |
-| Chapter 8   | 2                    | 20                 | 20          |
-| Chapter 9   | 4                    | 20                 | 20          |
+| Chapter 2-5 | Unseen               | 10                 | 40          |
+| Chapter 6   | 8                    | 10                 | 80          |
+| Chapter 7   | 8                    | 10                 | 80          |
+| Chapter 8   | 2                    | 20                 | 40          |
+| Chapter 9   | 4                    | 20                 | 80          |
 | **Total**   | 22 + Unseen          | -                  | **100**     |
 
-
+## Important Information
+Folders with "(unseen)" in their names are just sample folders to help you understand the structure.
+ They contain unseen questions and are meant to provide a reference for your preparation.
 
