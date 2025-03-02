@@ -31,7 +31,7 @@ Total marks: 100
 
 | Chapter     | Number of Questions | Marks per Question | Total Marks |
 |-------------|----------------------|--------------------|-------------|
-| Chapter 2-5 | Unseen               | 10                 | 40          |
+| Chapter 2-5 | Unseen               | 10(may be 5x2)     | 40          |
 | Chapter 6   | 7                    | 10                 | 10          |
 | Chapter 7   | 7                    | 10                 | 10          |
 | Chapter 8   | 2                    | 20                 | 20          |
