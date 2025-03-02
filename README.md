@@ -5,27 +5,6 @@
 
 Total marks: 100
 
-## Chapter Breakdown
-
-### Chapter 6
-- **Marks**: 10
-- **Number of Questions**: 7
-- **Topics**: [List of topics covered in chapter 6]
-
-### Chapter 7
-- **Marks**: 10
-- **Number of Questions**: 7
-- **Topics**: [List of topics covered in chapter 7]
-
-### Chapter 8
-- **Marks**: 20
-- **Number of Questions**: 2
-- **Topics**: [List of topics covered in chapter 8]
-
-### Chapter 9
-- **Marks**: 20
-- **Number of Questions**: 5
-- **Topics**: [List of topics covered in chapter 9]
 
 ## Overview
 
