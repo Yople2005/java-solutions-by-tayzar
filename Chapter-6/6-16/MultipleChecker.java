@@ -20,7 +20,8 @@ public class MultipleChecker {
                 break;
             } else {
                 System.out.println("Invalid input. Please enter an integer or 'exit' to quit.");
-                scanner.next(); // Consume the invalid input
+                scanner.next(); 
+                
             }
         }
 
