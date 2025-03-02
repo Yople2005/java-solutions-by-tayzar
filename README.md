@@ -38,7 +38,7 @@ Total marks: 100
 | Chapter 7   | 8                    | 10                 | 10          |
 | Chapter 8   | 2                    | 20                 | 20          |
 | Chapter 9   | 4                    | 20                 | 20          |
-| **Total**   | -                    | -                  | **100**     |
+| **Total**   | 22 + Unseen          | -                  | **100**     |
 
 
 
