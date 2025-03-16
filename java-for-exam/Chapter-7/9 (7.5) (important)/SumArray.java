@@ -10,3 +10,7 @@ public class SumArray{
         System.out.printf("Total of array elements: %d\n", total);
     }
 }
+
+int arr = [1, 2, 3, 4, 5];
+
+int[] arr1 = {1, 2, 3, 4, 5};

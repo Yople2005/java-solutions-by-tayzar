@@ -6,7 +6,7 @@ public class RectangleTest {
         rect1.setWidth(8.0f);
 
         // Constructor with values
-        Rectangle rect2 = new Rectangle(4.0f, 3.0f);
+        Rectangle rect2 = new Rectangle(40.0f, -1.0f);
 
         System.out.println("rect1 default constructor");
         System.out.printf("%s\n", rect1.toString());

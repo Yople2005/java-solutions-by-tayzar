@@ -7,3 +7,6 @@ public class Main {
         System.out.println("The area of the rectangle is: " + area);
     }
 }
+
+System.out.println("Perimeter: " + c2.getPerimeter());
+printf("Permieter: %.2f", c2.getPerimeter());
