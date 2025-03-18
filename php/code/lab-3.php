@@ -28,13 +28,11 @@
                     break;
             }
             
-            echo `<tr>
-            
-            <td>${$i}</td>
-            <td>${$oddEven}</td>
-            <td>${$prime}</td>
-            
-            </tr>`;
+            echo "<tr>
+                <td>$i</td>
+                <td>$oddEven</td>
+                <td>$prime</td>
+            </tr>";
         }
         ?>
     </table>
