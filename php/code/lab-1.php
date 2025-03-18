@@ -15,11 +15,11 @@
         $volume = ($area * $height) / 3;
 
         // Display results
-        echo "Radius: " . $radius . "<br>";
-        echo "Diameter: " . $diameter . "<br>";
-        echo "Base Area: " . number_format($area, 2) . "<br>";
-        echo "Height: " . $height . "<br>";
-        echo "Volume: " . number_format($volume, 2) . "<br>";
+       echo "The Circle has <br>";
+       echo `A Radius of $radius <br>`;
+       echo "A Diameter of ".$diameter."<br>";
+       echo "Volume of a given cone is ".$volume."<br>";
+       echo "An Area of ".$area."<br>";
         ?>
     </div>
 </body>

@@ -22,15 +22,19 @@
                 case 7:
                     $prime = "Yes";
                     break;
+                    
                 default:
                     $prime = "No";
                     break;
             }
-            echo "<tr>";
-            echo "<td>" . $i . "</td>";
-            echo "<td>" . $oddEven . "</td>";
-            echo "<td>" . $prime . "</td>";
-            echo "</tr>";
+            
+            echo `<tr>
+            
+            <td>${$i}</td>
+            <td>${$oddEven}</td>
+            <td>${$prime}</td>
+            
+            </tr>`;
         }
         ?>
     </table>
